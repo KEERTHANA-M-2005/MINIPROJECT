@@ -1,0 +1,11 @@
+jupyter 
+opencv-python
+mediapipe
+pyautogui
+pynput
+import-ipynb
+numpy
+screen-brightness-control
+pycaw
+comtypes
+pyinstaller
